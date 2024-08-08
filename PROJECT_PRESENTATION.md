@@ -30,6 +30,6 @@ Create a JavaScript function that generates a small piece of ASCII art. The patt
    - The height of the pyramid should be equal to the number of odd rows.
 
 4. **Pattern Characteristics**:
-   - All spaces occupied by the pyramid hould be filled with the # character.
+   - All spaces occupied by the pyramid should be filled with the # character.
    - All spaces not occupied by the pyramid should be filled with an empty string (` `).
 
