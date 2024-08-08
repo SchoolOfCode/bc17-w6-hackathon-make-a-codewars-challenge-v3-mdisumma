@@ -26,7 +26,7 @@ Create a JavaScript function that generates a small piece of ASCII art. The patt
    - **`spaceChar` (string)**: The character used to create fill the empty space.
 
 3. **Output**:
-   - Print a pattern to the terminal that includes a centered pyramid.
+   - return a pattern that printed to the terminal displays a centered pyramid.
    - The height of the pyramid should be equal to the number of odd rows.
 
 4. **Pattern Characteristics**:
