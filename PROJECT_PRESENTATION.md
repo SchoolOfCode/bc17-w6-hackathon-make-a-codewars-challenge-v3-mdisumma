@@ -23,7 +23,7 @@ Create a JavaScript function that generates a small piece of ASCII art. The patt
    
    - **`rows` (number)**: The number required to generate the rows in the pattern. This value must be an odd integer.
    - **`pyramidChar` (string)**: The character used to create the pyramid.
-   - **`spaceChar` (string)**: The character used to create fill the empty space.
+   - **`spaceChar` (string)**: The character used to create the empty space.
 
 3. **Output**:
    - Return a pattern that printed to the terminal displays a centered pyramid.
