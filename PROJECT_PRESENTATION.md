@@ -5,7 +5,7 @@ ASCII art is a form of digital art that uses characters from the ASCII character
 
 # Challenge Overview
 
-Create a JavaScript function that generates a small piece of ASCII art. The pattern should display a centered pyramid made by the '#' character. The height of the pyramid should be an odd integer to ensure proper centering and symmetry.
+Create a JavaScript function that generates a small piece of ASCII art. If printed the pattern should display a centered pyramid made by the '#' character. The height of the pyramid should be provided by an odd integer to ensure proper centering and symmetry with a limitation between 1 and 9.
 
 # Example Output
 
@@ -21,8 +21,8 @@ Create a JavaScript function that generates a small piece of ASCII art. The patt
 
 2. **Parameters**:
    
-   - **`rows` (number)**: The number required to generate the rows in the pattern. This value must be an odd integer.
-   - **`pyramidChar` (string)**: The character used to create the pyramid.
+   - **`rows` (number)**: A number between 1 and 9 to generate the rows of the pattern. This value should be an odd integer.
+   - **`pyramidChar` (string)**: The character used to create the pyramid blocks.
    - **`spaceChar` (string)**: The character used to create the empty space.
 
 3. **Output**:
