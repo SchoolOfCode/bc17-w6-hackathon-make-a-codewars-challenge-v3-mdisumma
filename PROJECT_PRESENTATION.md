@@ -20,7 +20,7 @@ Create a JavaScript function that generates a small piece of ASCII art. If print
 1. **Function Name**: `buildPyramid`
 
 2. **Parameters**:
-   - **`rows` (number)**: A number between 1 and 9 to generate the number of rows. the function should consider only odd integer and return a rows pattern of 1 to a maximum of 5.
+   - **`rows` (number)**: A number between 1 and 9. 
    - **`pyramidChar` (string)**: The character used to create the pyramid blocks.
    - **`spaceChar` (string)**: The character used to create the empty space.
 
@@ -29,6 +29,7 @@ Create a JavaScript function that generates a small piece of ASCII art. If print
    - The height of the pyramid should be equal to the number of the odd value contained in the rows number.
 
 4. **Pattern Characteristics**:
+   - The function should consider only the odd value contained in the rows number and return a rows pattern between 1 to a maximum of 5.
    - All spaces occupied by the pyramid should be filled with the # character.
    - All spaces not occupied by the pyramid should be filled with an empty string (` `).
 
