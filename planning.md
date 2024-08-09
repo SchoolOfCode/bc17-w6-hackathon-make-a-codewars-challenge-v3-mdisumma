@@ -16,6 +16,7 @@
   - concatenate in a string the half/value of the empty string required, the pyramid caracter and the remaining half of the half/value of the empty string remained
   - add a new line input at the end of the string.
   - return the function
+  - create a boundary testing to consider possible scenarios
 - Write the function to generate the test output.
 - implement tests for different scenarios.
 - Submit the solution to Codewars.
